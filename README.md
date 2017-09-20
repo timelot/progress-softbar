@@ -13,7 +13,7 @@ as well as the `total`, telling the progress bar when it will
 be considered complete. After that all we need to do is `tick()` appropriately.
 
 ```javascript
-var ProgressBar = require('progress');
+var ProgressBar = require('progress-softbar');
 
 var bar = new ProgressBar(':bar', { total: 10 });
 var timer = setInterval(function () {
