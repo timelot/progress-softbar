@@ -1,9 +1,9 @@
-Flexible ascii progress bar with 9 different head characters.
+Flexible ascii progress bar with 9 different head characters based on progress
 
 ## Installation
 
 ```bash
-$ npm install progress
+$ npm install progress-softbar
 ```
 
 ## Usage
